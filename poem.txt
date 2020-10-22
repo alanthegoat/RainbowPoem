@@ -6,4 +6,5 @@ blue
 indigo
 purple
 orange
+little pony
 these are the colors of the rainbow.
